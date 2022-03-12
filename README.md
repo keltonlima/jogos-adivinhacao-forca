@@ -1,4 +1,4 @@
-# jogos-alura
+# Jogos - Adivinhação e Forca no terminal
 
 ### Jogos de adivinhação e forca feito à partir do conhecimento adquirido nos cursos da Alura.
 
